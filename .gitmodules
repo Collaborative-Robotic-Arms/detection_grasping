@@ -1,9 +1,0 @@
-[submodule "brick_grasping_model"]
-	path = brick_grasping_model
-	url = https://github.com/Collaborative-Robotic-Arms/brick_grasping_model.git
-[submodule "brick_detection"]
-	path = brick_detection
-	url = https://github.com/Collaborative-Robotic-Arms/brick_detection.git
-[submodule "detection_grasping_bringup"]
-	path = detection_grasping_bringup
-	url = https://github.com/Collaborative-Robotic-Arms/detection_grasping_bringup.git
